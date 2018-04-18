@@ -1,0 +1,13 @@
+Eric Yoo
+CMSC441
+4/20/17
+
+Project 2 - Part 1a
+RSA Key Generation
+
+
+Build instruction:
+
+1. python key.py
+2. Enter size when prompted. (Enter size large enough for message)
+
